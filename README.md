@@ -5,7 +5,7 @@
 -config tailwind
 -header
 login form
--signup form
+-sign up form
 
 
 
