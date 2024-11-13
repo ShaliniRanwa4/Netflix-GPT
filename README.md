@@ -3,6 +3,9 @@
 
 -install create-react-app
 -config tailwind
+-header
+login form
+-signup form
 
 
 
