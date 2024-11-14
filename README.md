@@ -4,8 +4,15 @@
 -install create-react-app
 -config tailwind
 -header
+-routing 
 login form
 -sign up form
+-form validation
+-useRef hook
+-firebase setup
+-deploying our app to production
+-craete sign up user account
+-authentication 
 
 
 
