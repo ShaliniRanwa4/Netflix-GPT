@@ -13,6 +13,7 @@ login form
 -deploying our app to production
 -craete sign up user account
 -authentication 
+-created Redux store
 
 
 
