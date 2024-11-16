@@ -14,6 +14,12 @@ login form
 -craete sign up user account
 -authentication 
 -created Redux store
+-implemented sign out logic
+-update profile picture
+-bugfix-route(sign in /sign out)
+-unsubscribe to onStateAuthChange callback
+-register to tmdb for fetching movie
+-creating custom hooks for fetching data
 
 
 
