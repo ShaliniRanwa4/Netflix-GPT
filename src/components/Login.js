@@ -10,7 +10,7 @@ import { auth } from "../utils/firebase";
 
 import { useDispatch } from "react-redux";
 import { addUser } from "../utils/userSlice";
-import { USER_AVATAR } from "../utils/constant";
+import { BG_NETFLIX, USER_AVATAR } from "../utils/constant";
 
 
 const Login = () => {
@@ -102,7 +102,7 @@ const Login = () => {
       <Header />
       <div className="absolute">
         <img
-          src="https://assets.nflxext.com/ffe/siteui/vlv3/81d64f3c-9627-4741-8f74-422bf35f9f1d/web/IN-en-20241104-TRIFECTA-perspective_55263ea2-af7f-40ed-9cf0-7029a9b9baf4_medium.jpg"
+          src={BG_NETFLIX}
           alt="logo"
         />
       </div>
