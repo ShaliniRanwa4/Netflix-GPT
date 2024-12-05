@@ -13,4 +13,4 @@ export const API_OPTIONS= {
   export const SUPPORTED_LANG=[{identifier:"en",name:"English"},{identifier:"hindi",name:"Hindi"},{identifier:"spanish",name:"Spanish"}]
   // export const OPEN_API_KEY=process.env.REACT_APP_OPEN_API_KEY
   // export const BASE_URL="https://api.aimlapi.com/v1";
-  export const OPEN_API_KEY=process.env.RAECT_APP_TMDB_KEY
+  export const OPEN_API_KEY= process.env.RAECT_APP_TMDB_KEY
