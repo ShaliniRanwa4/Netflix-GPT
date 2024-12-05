@@ -11,5 +11,5 @@ export const API_OPTIONS= {
   export const BG_NETFLIX="https://assets.nflxext.com/ffe/siteui/vlv3/81d64f3c-9627-4741-8f74-422bf35f9f1d/web/IN-en-20241104-TRIFECTA-perspective_55263ea2-af7f-40ed-9cf0-7029a9b9baf4_medium.jpg"
   export const SUPPORTED_LANG=[{identifier:"en",name:"English"},{identifier:"hindi",name:"Hindi"},{identifier:"spanish",name:"Spanish"}]
   // export const OPEN_API_KEY=process.env.REACT_APP_OPEN_API_KEY
-  // export const BASE_URL="https://api.aimlapi.com/v1";
+  // export const BASE_URL="https://api.aimlapi.com/v1"
   export const OPEN_API_KEY= process.env.REACT_APP_OPEN_API_KEY
